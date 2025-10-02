@@ -3,7 +3,7 @@
 <h3>I am a passionate software developer skilled in building high-quality web and mobile applications using React, Node.js, Java, Spring and JavaScript/TypeScript. Experienced in full-stack development with performance optimization, and collaborative coding workflows. I focus on writing clean, maintainable code and leveraging modern tools like Vite, Tailwind CSS, and Firebase to deliver seamless user experiences. Always eager to learn, contribute to impactful projects, and grow as a developer.</h3>
 
 
-- 💬 Ask me about **React, Java, Node.js, JavaScript, TypeScript, or anything related web/mobile development**</br>
+- 💬 Ask me about **React, Java, Node.js, JavaScript, TypeScript, or anything related to web/mobile development**</br>
 - 📫 How to reach me **ashishakteri18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
