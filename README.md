@@ -29,5 +29,5 @@
 |---------------------|----------------|----------------|  
 | ![Total Contributions](https://img.shields.io/badge/Contributions-457-blue) | ![Current Streak](https://img.shields.io/badge/Current_Streak-0-orange) | ![Longest Streak](https://img.shields.io/badge/Longest_Streak-8-red) |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ash180403&theme=dark)
 
