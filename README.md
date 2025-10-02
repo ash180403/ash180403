@@ -12,8 +12,8 @@
 ## Most Used Languages  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_title=true&hide=html)  
 
-## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=default)  
+<!-- ## GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=default)   -->
 
 ## Contribution Activity  
 | Total Contributions | Current Streak | Longest Streak |  
