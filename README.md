@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Ashish Akteri
 <h4>
 I am a passionate software developer skilled in building high-quality web and mobile applications using React, Node.js, Java, Spring and JavaScript/TypeScript. Experienced in full-stack development with performance optimization, and collaborative coding workflows. I focus on writing clean, maintainable code and leveraging modern tools like Vite, Tailwind CSS, and Firebase to deliver seamless user experiences. Always eager to learn, contribute to impactful projects, and grow as a developer.
+</h4>
 - 💬 Ask me about **React, Java, Node.js, JavaScript, TypeScript, or MERN stack**
 - 📫 React me at: [ashishakteri18@gmail.com](ashishakteri18@gmail.com)
-</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
