@@ -4,7 +4,7 @@
 Enthusiastic Software Developer with hands-on experience building scalable, high-performance web and mobile applications. Proficient in React, Node.js, and Java, with a strong foundation in full-stack development, API integration, and performance optimization. Passionate about learning new technologies, collaborating on impactful projects, and delivering clean, maintainable code with Git.
 
 - 💬 Ask me about **React, Node.js, JavaScript, TypeScript, or MERN stack**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [ashishakteri18@gmail.com](ashishakteri18@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
