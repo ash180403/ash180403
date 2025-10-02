@@ -4,7 +4,7 @@
 I am a passionate software developer skilled in building high-quality web and mobile applications using React, Node.js, Java, Spring and JavaScript/TypeScript. Experienced in full-stack development with performance optimization, and collaborative coding workflows. I focus on writing clean, maintainable code and leveraging modern tools like Vite, Tailwind CSS, and Firebase to deliver seamless user experiences. Always eager to learn, contribute to impactful projects, and grow as a developer.
 </h4>
 - 💬 Ask me about **React, Java, Node.js, JavaScript, TypeScript, or MERN stack**</br>
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: ashishakteri18@gmail.com (mailto:your-email@example.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
