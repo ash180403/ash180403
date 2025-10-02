@@ -34,6 +34,12 @@ I am a passionate software developer skilled in building high-quality web and mo
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash180403&layout=compact&hide_title=true&hide=html)  
 
 
+## Featured Projects
+- [Sparkids](https://github.com/ash180403/sparkids.git) 
+- [Plant-lense](https://github.com/ash180403/Native.git) 
+- [Ai_Interview_assistant](https://github.com/ash180403/ai_interview_assiatant.git)
+
+
 ## Contribution Activity  
 | Total Contributions | Current Streak | Longest Streak |  
 |---------------------|----------------|----------------|  
@@ -45,7 +51,3 @@ I am a passionate software developer skilled in building high-quality web and mo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&count_private=true&hide_title=true&theme=default)  
 
 
-## Featured Projects
-- [Sparkids](https://github.com/ash180403/sparkids.git) 
-- [Plant-lense](https://github.com/ash180403/Native.git) 
-- [Ai_Interview_assistant](https://github.com/ash180403/ai_interview_assiatant.git)
