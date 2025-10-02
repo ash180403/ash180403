@@ -1,4 +1,6 @@
 # Hi there 👋, I'm Ashish Akteri
+![Visitor Count](https://profile-counter.glitch.me/ash180403/count.svg)
+
 
 
 I am a passionate software developer skilled in building high-quality web and mobile applications using React, Node.js, and JavaScript/TypeScript. Experienced in full-stack development with the MERN stack, performance optimization, and collaborative coding workflows. I focus on writing clean, maintainable code and leveraging modern tools like Vite, Tailwind CSS, and Firebase to deliver seamless user experiences. Always eager to learn, contribute to impactful projects, and grow as a developer.
@@ -43,3 +45,14 @@ I am a passionate software developer skilled in building high-quality web and mo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&count_private=true&hide_title=true&theme=default)  
 
 
+![Banner](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
+<p>
+  <em>Currently learning</em>
+  <br>
+  <a href="https://github.com/topics/react" target="_blank">React</a> &nbsp;|&nbsp;
+  <a href="https://github.com/topics/nodejs" target="_blank">Node.js</a> &nbsp;|&nbsp;
+  <a href="https://github.com/topics/typescript" target="_blank">TypeScript</a>
+</p>
+## Featured Projects
+- [Project Name](repo-link) - A brief description of the project.
+- [Project Name](repo-link) - Description of what it does.
