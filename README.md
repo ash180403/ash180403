@@ -9,11 +9,8 @@ I am a passionate software developer skilled in building high-quality web and mo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ashish-akteri-26a53521a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/ashish-akteri-26a53521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ash" height="30" width="40" /></a>
 </p>
-
 
 ## Languages and Tools  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />  
@@ -48,7 +45,7 @@ I am a passionate software developer skilled in building high-quality web and mo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&count_private=true&hide_title=true&theme=default)  
 
 
-![Ashish Akteri - Flutter & MERN Developer](https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif)
+![Coding AI Programming](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
 <p>
   <em>Currently learning</em>
   <br>
