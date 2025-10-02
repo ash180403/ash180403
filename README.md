@@ -4,8 +4,8 @@
 
 
 I am a passionate software developer skilled in building high-quality web and mobile applications using React, Node.js, and JavaScript/TypeScript. Experienced in full-stack development with the MERN stack, performance optimization, and collaborative coding workflows. I focus on writing clean, maintainable code and leveraging modern tools like Vite, Tailwind CSS, and Firebase to deliver seamless user experiences. Always eager to learn, contribute to impactful projects, and grow as a developer.
-- 💬 Ask me about **React, Node.js, JavaScript, TypeScript, or MERN stack**
-- 📫 How to reach me: [ashishakteri18@gmail.com](ashishakteri18@gmail.com)
+- 💬 Ask me about **React, Java, Node.js, JavaScript, TypeScript, or MERN stack**
+- 📫 React me at: [ashishakteri18@gmail.com](ashishakteri18@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,8 +44,6 @@ I am a passionate software developer skilled in building high-quality web and mo
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&count_private=true&hide_title=true&theme=default)  
 
-
-![Coding AI Programming](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
 <p>
   <em>Currently learning</em>
   <br>
@@ -54,6 +52,8 @@ I am a passionate software developer skilled in building high-quality web and mo
   <a href="https://github.com/topics/java" target="_blank">Java</a> &nbsp;|&nbsp;
   <a href="https://github.com/topics/typescript" target="_blank">TypeScript</a>
 </p>
+
+
 ## Featured Projects
-- [Project Name](repo-link) - A brief description of the project.
-- [Project Name](repo-link) - Description of what it does.
+- [Sparkids](https://github.com/ash180403/sparkids.git) 
+- [Plant-lense](https://github.com/ash180403/Native.git) 
