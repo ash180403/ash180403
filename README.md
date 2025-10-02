@@ -51,6 +51,7 @@ I am a passionate software developer skilled in building high-quality web and mo
   <br>
   <a href="https://github.com/topics/react" target="_blank">React</a> &nbsp;|&nbsp;
   <a href="https://github.com/topics/nodejs" target="_blank">Node.js</a> &nbsp;|&nbsp;
+  <a href="https://github.com/topics/java" target="_blank">Java</a> &nbsp;|&nbsp;
   <a href="https://github.com/topics/typescript" target="_blank">TypeScript</a>
 </p>
 ## Featured Projects
