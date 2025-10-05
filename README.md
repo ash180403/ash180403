@@ -39,12 +39,14 @@
 - [Ai_Interview_assistant](https://github.com/ash180403/ai_interview_assiatant.git)
 
 
-## Contribution Activity  
-| Total Contributions | Current Streak | Longest Streak |  
-|---------------------|----------------|----------------|  
-| ![Total Contributions](https://img.shields.io/badge/Contributions-457-blue) | ![Current Streak](https://img.shields.io/badge/Current_Streak-0-orange) | ![Longest Streak](https://img.shields.io/badge/Longest_Streak-8-red) |
+## Contribution Activity
+
+| Total Contributions | Current Streak | Longest Streak |
+|---------------------|---------------|---------------|
+| ![Contributions](https://img.shields.io/badge/Contributions-457-blue) | ![Current Streak](https://img.shields.io/badge/Current_Streak-0-orange) | ![Longest Streak](https://img.shields.io/badge/Longest_Streak-8-red) |
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ash180403&theme=dark)
+
 
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&count_private=true&hide_title=true&theme=default)  
