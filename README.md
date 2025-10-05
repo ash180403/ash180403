@@ -42,7 +42,7 @@
 ## Contribution Activity
 
 <a href="https://github.com/ash180403">
-  <img src="https://badges.pufler.dev/total/ash180403" alt="Total Contributions"/>
+  <!-- <img src="https://badges.pufler.dev/total/ash180403" alt="Total Contributions"/> -->
 </a>
 
 <a href="https://github.com/ash180403">
