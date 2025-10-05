@@ -46,11 +46,11 @@
 </a>
 
 <a href="https://github.com/ash180403">
-  <img src="https://badges.pufler.dev/clock/ash180403" alt="Current Streak"/>
+  <!-- <img src="https://badges.pufler.dev/clock/ash180403" alt="Current Streak"/> -->
 </a>
 
 <a href="https://github.com/ash180403">
-  <img src="https://badges.pufler.dev/longest-streak/ash180403" alt="Longest Streak"/>
+  <!-- <img src="https://badges.pufler.dev/longest-streak/ash180403" alt="Longest Streak"/> -->
 </a>
 
 <a href="https://git.io/streak-stats">
