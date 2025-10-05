@@ -41,11 +41,12 @@
 
 ## Contribution Activity
 
-| Total Contributions | Current Streak | Longest Streak |
-|---------------------|---------------|---------------|
-| ![Contributions](https://img.shields.io/badge/Contributions-457-blue) | ![Current Streak](https://img.shields.io/badge/Current_Streak-0-orange) | ![Longest Streak](https://img.shields.io/badge/Longest_Streak-8-red) |
+[![Total Contributions](https://badges.pufler.dev/total/ash180403)](https://github.com/ash180403)
+[![Current Streak](https://badges.pufler.dev/clock/ash180403)](https://github.com/ash180403)
+[![Longest Streak](https://badges.pufler.dev/longest-streak/ash180403)](https://github.com/ash180403)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ash180403&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ash180403&theme=dark)](https://git.io/streak-stats)
+
 
 
 ## GitHub Stats  
