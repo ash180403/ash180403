@@ -49,7 +49,8 @@
 
 
 
+
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&count_private=true&hide_title=true&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&count_private=true&hide_title=true&theme=dark)  
 
 
