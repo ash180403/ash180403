@@ -41,7 +41,8 @@
 
 ## Contribution Activity
 
-![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&theme=dark)
+![Ash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash180403&theme=dark)
+
 
 
 
