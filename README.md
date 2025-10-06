@@ -44,13 +44,6 @@
 ![Ash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash180403&theme=dark)
 
 
-
-
-![Ash's Streak and Stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-
-
-
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&count_private=true&hide_title=true&theme=dark)  
 
