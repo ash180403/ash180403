@@ -46,6 +46,7 @@
 
 
 
+![Ash's Streak and Stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 
 
