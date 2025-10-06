@@ -41,10 +41,8 @@
 
 ## Contribution Activity
 
-[![Total Contributions](https://badges.pufler.dev/total/ash180403)](https://github.com/ash180403)
-[![Current Streak](https://badges.pufler.dev/clock/ash180403)](https://github.com/ash180403)
-[![Longest Streak](https://badges.pufler.dev/longest-streak/ash180403)](https://github.com/ash180403)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ash180403&theme=dark)](https://git.io/streak-stats)
+![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash180403&show_icons=true&theme=dark)
+
 
 
 
