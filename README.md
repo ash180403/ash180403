@@ -41,7 +41,7 @@
 
 ## Contribution Activity
 
-![Ash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash180403&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ash180403)](https://git.io/streak-stats)
 
 
 ## GitHub Stats  
