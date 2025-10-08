@@ -39,40 +39,9 @@
 - [Ai_Interview_assistant](https://github.com/ash180403/ai_interview_assiatant.git)
 
 
-<h3>📊 Contribution Chart</h3>
+## Contribution Activity
 
-<table>
-  <tr>
-    <td bgcolor="#c6e48b"></td>
-    <td bgcolor="#7bc96f"></td>
-    <td bgcolor="#239a3b"></td>
-    <td bgcolor="#196127"></td>
-    <td bgcolor="#ebedf0"></td>
-    <td bgcolor="#c6e48b"></td>
-    <td bgcolor="#ebedf0"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#ebedf0"></td>
-    <td bgcolor="#c6e48b"></td>
-    <td bgcolor="#7bc96f"></td>
-    <td bgcolor="#239a3b"></td>
-    <td bgcolor="#c6e48b"></td>
-    <td bgcolor="#7bc96f"></td>
-    <td bgcolor="#ebedf0"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#7bc96f"></td>
-    <td bgcolor="#239a3b"></td>
-    <td bgcolor="#c6e48b"></td>
-    <td bgcolor="#7bc96f"></td>
-    <td bgcolor="#239a3b"></td>
-    <td bgcolor="#c6e48b"></td>
-    <td bgcolor="#7bc96f"></td>
-  </tr>
-</table>
-
-<p><small>Colors mimic GitHub contribution levels: dark = high activity, light = low</small></p>
-
+![Ash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash180403&theme=dark)
 
 
 ## GitHub Stats  
