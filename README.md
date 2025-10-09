@@ -39,9 +39,9 @@
 - [Ai_Interview_assistant](https://github.com/ash180403/ai_interview_assiatant.git)
 
 
-<!-- ## Contribution Activity
+## Contribution Activity
 
-![Ash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash180403&theme=default) -->
+![Ash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash180403&theme=default)
 
 
 ## GitHub Stats  
