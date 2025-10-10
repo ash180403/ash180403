@@ -41,7 +41,7 @@
 
 ## Contribution Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ash180403)](https://git.io/streak-stats&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ash180403&theme=dark)](https://git.io/streak-stats)
 
 
 ## GitHub Stats  
