@@ -39,9 +39,9 @@
 - [Ai_Interview_assistant](https://github.com/ash180403/ai_interview_assiatant.git)
 
 
-## Contribution Activity
+<!-- ## Contribution Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ash180403&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ash180403&theme=dark)](https://git.io/streak-stats) -->
 
 
 ## GitHub Stats  
