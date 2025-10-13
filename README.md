@@ -41,9 +41,7 @@
 
 ## Contribution Activity
 
-<img src="https://ghchart.rshah.org/ash180403" alt="GitHub contribution chart for ash180403" />
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ash180403)](https://git.io/streak-stats)
 
 
 ## GitHub Stats  
