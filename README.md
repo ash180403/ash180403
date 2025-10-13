@@ -41,7 +41,8 @@
 
 ## Contribution Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash180403&theme=default)
+<img src="https://ghchart.rshah.org/ash180403" alt="GitHub contribution chart for ash180403" />
+
 
 
 
