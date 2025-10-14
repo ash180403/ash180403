@@ -29,8 +29,8 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />  
 <img src="https://img.shields.io/badge/REST_API-61DAFB?style=flat-square&logo=rest&logoColor=white" />
 
-## Most Used Languages  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash180403&layout=compact&hide_title=true&hide=html)  
+<!-- ## Most Used Languages  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash180403&layout=compact&hide_title=true&hide=html)   -->
 
 
 ## Featured Projects
