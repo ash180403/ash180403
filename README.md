@@ -41,7 +41,8 @@
 
 ## Contribution Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash180403)](https://github.com/ash180403)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash180403&theme=tokyonight)](https://github.com/ash180403)
+
 
 
 
