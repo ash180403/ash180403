@@ -41,7 +41,8 @@
 
 ## Contribution Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash180403)](https://github.com/ash180403)
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ash180403&theme=github-dark)](https://github.com/ash180403)
+
 
 
 
