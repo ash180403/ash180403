@@ -41,10 +41,8 @@
 
 ## Contribution Activity
 
-[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ash180403&theme=github-dark)](https://github.com/ash180403)
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ash180403&theme=react-dark)](https://github.com/ash180403)
 
-
-![GitHub Metrics](https://github.com/ash180403/ash180403/blob/main/github-metrics.svg)
 
 
 ## GitHub Stats  
